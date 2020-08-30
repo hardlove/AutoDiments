@@ -1,0 +1,3 @@
+include ':AutoDimensionLib'
+include ':app'
+rootProject.name = "AutoDimension"

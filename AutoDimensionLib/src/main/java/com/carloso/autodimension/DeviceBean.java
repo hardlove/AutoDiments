@@ -1,4 +1,4 @@
-	package com.globalroam.diments;
+package com.carloso.autodimension;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -60,7 +60,7 @@ public class DeviceBean {
 	}
 	
 	/**
-	 * 获取标准分辨率的设备
+	 * 锟斤拷取锟斤拷准锟街憋拷锟绞碉拷锟借备
 	 * @return
 	 */
 	public static List<DeviceBean> getStandardDevices(){
